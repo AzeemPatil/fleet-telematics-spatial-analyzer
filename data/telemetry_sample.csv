@@ -1,0 +1,11 @@
+timestamp,vehicle_id,speed_kmh,latitude,longitude,event_type,severity
+2023-11-01T08:14:22Z,V-409,65,18.6278,73.7997,hard_braking,high
+2023-11-01T08:16:10Z,V-211,72,18.6298,73.7845,lane_departure,medium
+2023-11-01T08:20:05Z,V-409,45,18.6310,73.7810,forward_collision_warning,critical
+2023-11-01T08:22:30Z,V-118,68,18.6279,73.7995,hard_braking,high
+2023-11-01T08:45:12Z,V-305,50,18.5986,73.7638,hard_braking,medium
+2023-11-01T09:05:44Z,V-211,80,18.5912,73.7389,lane_departure,low
+2023-11-01T09:12:18Z,V-118,40,18.6311,73.7809,forward_collision_warning,critical
+2023-11-01T09:30:00Z,V-409,60,18.6500,73.7620,hard_braking,high
+2023-11-01T09:45:22Z,V-305,75,18.6280,73.7998,hard_braking,high
+2023-11-01T10:10:10Z,V-502,55,18.6309,73.7812,hard_braking,medium
